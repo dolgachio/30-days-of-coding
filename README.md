@@ -54,7 +54,16 @@ There are lot of different learning repos with similar pattern: do coding in thi
 ### C++ ⚙️
 
 - **[30 Days of C++](https://github.com/subhadipbhowmik/30-Days-Of-CPP)** by [Shubhadip Bhowmik](https://github.com/subhadipbhowmik)<br/>
-  🚀 30 days of CPP programming challenge is a step-by-step guide to learn CPP programming language in 30 days. 
+  🚀 30 days of CPP programming challenge is a step-by-step guide to learn CPP programming language in 30 days.
+
+### SQL 🗄️
+
+- **[30 Days of SQL](https://github.com/mahirtantod/30-Days-of-SQL)** by [Mahir Tantod](https://github.com/mahirtantod)<br/>
+🗄️ 30 days of SQL learning challenge to build SQL fundamentals step by step.
+- **[30-DAYS-SQL-QUESTION-SERIES](https://github.com/Sankriti09/30-DAYS-SQL-QUESTION-SERIES)** by [Sankriti09](https://github.com/Sankriti09)<br/>
+🗄️ A 30-day SQL question series focused on mastering SQL through daily practice and problem-solving.
+- **[30-Days-SQL-Challenge](https://github.com/najirh/30-Days-SQL-Challenge)** by [najirh](https://github.com/najirh)<br/>
+🗄️ A 30-day SQL challenge repo designed for daily SQL learning and practice.
 
 
 ## Contributing
